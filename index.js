@@ -25,6 +25,7 @@ function sendNotification()
             console.error(`Une erreur est survenue lors de l'envoi du mail: ${error}`);
         } else {
             console.log(`Email envoyé avec succès: ${info.response}`);
+            process.exit(0);
         }
     });
 }
