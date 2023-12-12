@@ -15,9 +15,9 @@ USER=""
 PASS=""
 RECIPIENTS="adresse@email.fr,"
 ```
-The USER value is for the email used for the mail server
-The PASS is the password of the mail server
-RECIPIENTS is the people who receive the email. To add many recipients, add the email with a comma at the end. Don't add space between the emails !
+- The USER value is for the email used for the mail server
+- The PASS value is the password of the mail server
+- The RECIPIENTS value is the people who receive the email. To add many recipients, add the email with a comma at the end. Don't add space between the emails !
 
 ## How to start the program:
 
