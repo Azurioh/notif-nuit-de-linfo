@@ -8,6 +8,17 @@ This project is a bot who will send a mail when the podium of a challenge of the
 - npm
 - A mail server (or a Gmail account)
 
+## Setup the .env file
+
+```
+USER=""
+PASS=""
+RECIPIENTS="adresse@email.fr,"
+```
+The USER value is for the email used for the mail server
+The PASS is the password of the mail server
+RECIPIENTS is the people who receive the email. To add many recipients, add the email with a comma at the end. Don't add space between the emails !
+
 ## How to start the program:
 
 ```
